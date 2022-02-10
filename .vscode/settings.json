@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "database": "MEGA_RAILS_7_development",
+      "name": "MEGA_RAILS_7_DEV",
+      "username": "adam"
+    }
+  ]
+}
