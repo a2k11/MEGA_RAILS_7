@@ -13,6 +13,7 @@ gem "turbo-rails"
 gem "stimulus-rails"
 gem "cssbundling-rails"
 gem "jbuilder"
+gem "devise"
 
 # gem "redis", "~> 4.0"
 # gem "kredis"
